@@ -1,0 +1,14 @@
+# virtual environment
+**venv
+
+# VS code
+**.vscode
+
+# python cache
+__pycache__/
+
+# scrapy cache 
+.scrapy
+
+# output directory
+output
